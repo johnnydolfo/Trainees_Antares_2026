@@ -24,7 +24,7 @@ int Contador_Pouso = 0;
 
 bool Apogeu_Detectado = false;
 
-const int Porta_SDA = 21, Porta_SCL = 22; 
+const int Porta_SDA = 22, Porta_SCL = 21; 
 const int Mosfet_Pin = 13;
 const int LED = 16;
 
